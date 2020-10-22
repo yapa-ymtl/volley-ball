@@ -11,3 +11,8 @@ This game is developed by using c++ language.No graphical interface only CLI.
 * *You can move the player(choosed one) using keys **W(up), A(left), S(down) and D(down)***
 * *You can hit direct to the ball in default , if you press **Q** then player will go up side else **E** ball will go down.*
 * ***Score board** and **Comment** for each action will be shown.*
+
+**Here are some screeshots**
+* ![start](https://github.com/yapa-ymtl/volley-ball/blob/master/Screenshot%20(82).png)
+* ![instruction](https://github.com/yapa-ymtl/volley-ball/blob/master/Screenshot%20(82).png)
+* ![game](https://github.com/yapa-ymtl/volley-ball/blob/master/Screenshot%20(85).png)
